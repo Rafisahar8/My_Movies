@@ -1,17 +1,38 @@
-# movies
+# MyMovies
 
-A new Flutter project.
+MyMovies is a Flutter application that allows users to browse and explore movie information from around the world. The application provides an intuitive interface for discovering popular movies, viewing movie details, and searching for specific titles.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Display a list of movies
+- View movie details
+- Search movies
+- Responsive user interface
+- Built with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- REST API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+```text
+lib/
+├── models/
+├── screens/
+├── services/
+├── widgets/
+└── main.dart
+```
+
+## Requirements
+
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code
+
+## Author
+
+Muhammad Rafi Sahar
